@@ -1,0 +1,1 @@
+mydata$sum <- mydata$x1 + mydata$x2
